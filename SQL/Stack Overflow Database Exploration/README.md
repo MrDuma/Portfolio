@@ -1,7 +1,7 @@
 # Исследование базы данных StackOverflow за 2008 год
 
-* [Тетрадь в формате ipynb](/Stack Overflow Database Exploration.ipynb)
-* [Тетрадь в формате html](/Stack Overflow Database Exploration.html)
+* [Тетрадь в формате ipynb](../Stack Overflow Database Exploration.ipynb)
+* [Тетрадь в формате html](../Stack Overflow Database Exploration.html)
 
 ## Задачи проекта:
 C помощью SQL посчитать и визуализировать метрики сервис-системы вопросов и ответов о программировании.

@@ -1,7 +1,7 @@
 # Исследование бизнес-показателей приложения
 
-* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/main/Python/User%20behavior%20analysis/User%20behavior%20analysis.ipynb)
-* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/main/Python/User%20behavior%20analysis/User%20behavior%20analysis.html)
+* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/90690c7d2ea6e64bf8598a46c4788a09b10cd0b4/Python/Business%20performance%20research/Business%20performance%20research.ipynb)
+* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/90690c7d2ea6e64bf8598a46c4788a09b10cd0b4/Python/Business%20performance%20research/Business%20performance%20research.html)
 
 ## Задачи проекта:
 Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Задача — разобраться в причинах и помочь компании выйти в плюс.

@@ -1,8 +1,8 @@
 # Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
-* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/main/Python/Catering%20market%20research/Catering%20market%20research.ipynb)
-* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/main/Python/Catering%20market%20research/Catering%20market%20research.html)
-* [Презентация в формате pdf](https://github.com/MrDuma/Portfolio/blob/main/Python/Catering%20market%20research/Presentation%20catering%20market%20research.pdf)
+* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/bee0bf59f5996bad271703478a6783ff70f2bbe4/Python/Catering%20market%20research/Catering%20market%20research.ipynb)
+* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/bee0bf59f5996bad271703478a6783ff70f2bbe4/Python/Catering%20market%20research/Catering%20market%20research.html)
+* [Презентация в формате pdf](https://github.com/MrDuma/Portfolio/blob/bee0bf59f5996bad271703478a6783ff70f2bbe4/Python/Catering%20market%20research/Presentation%20catering%20market%20research.pdf)
 
 ## Задачи проекта:
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации.

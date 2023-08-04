@@ -1,7 +1,7 @@
 # Оценка результатов A/B-теста интернет-магазина
 
-* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/main/AB%20test%20in%20an%20online%20store/AB%20test%20in%20an%20online%20store.ipynb)
-* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/main/AB%20test%20in%20an%20online%20store/AB%20test%20in%20an%20online%20store.html)
+* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/f481270b84d32a30d8bcc7f59c3471d91fc65e39/Python/AB%20test%20in%20an%20online%20store/AB%20test%20in%20an%20online%20store.ipynb)
+* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/f481270b84d32a30d8bcc7f59c3471d91fc65e39/Python/AB%20test%20in%20an%20online%20store/AB%20test%20in%20an%20online%20store.html)
 
 ## Задачи проекта:
 Провести оценку результатов A/B-теста изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина

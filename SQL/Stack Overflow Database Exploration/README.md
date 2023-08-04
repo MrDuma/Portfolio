@@ -1,6 +1,6 @@
 # Исследование базы данных StackOverflow за 2008 год
 
-* [Тетрадь в формате ipynb](/Stack%20Overflow%20Database%20Exploration/Stack%20Overflow%20Database%20Exploration.ipynb)
+* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/389eaf234f5d69b3356b6837a270a75dcea80ca3/SQL/Stack%20Overflow%20Database%20Exploration/Stack%20Overflow%20Database%20Exploration.ipynb)
 * [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/51b26799481685861209c383897b3b389d749f43/SQL/Stack%20Overflow%20Database%20Exploration/Stack%20Overflow%20Database%20Exploration.html)
 
 ## Задачи проекта:

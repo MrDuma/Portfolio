@@ -1,8 +1,8 @@
 # Исследование основного и дополнительного ассортимента интернет-магазина товаров для дома «Пока все ещё тут»
 
-* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/main/Research%20of%20the%20assortment/Research%20of%20the%20assortment.ipynb)
-* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/main/Research%20of%20the%20assortment/Research%20of%20the%20assortment.html)
-* [Презентация в формате pdf](https://github.com/MrDuma/Portfolio/blob/main/Research%20of%20the%20assortment/Presentation%20research%20of%20the%20assortment.pdf)
+* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/c2bca0cee30ef2cdd20141ce387d6d828d00ad10/Python/Research%20of%20the%20assortment/Research%20of%20the%20assortment.ipynb)
+* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/c2bca0cee30ef2cdd20141ce387d6d828d00ad10/Python/Research%20of%20the%20assortment/Research%20of%20the%20assortment.html)
+* [Презентация в формате pdf](https://github.com/MrDuma/Portfolio/blob/c2bca0cee30ef2cdd20141ce387d6d828d00ad10/Python/Research%20of%20the%20assortment/Presentation%20research%20of%20the%20assortment.pdf)
 
 ## Задачи проекта:
 - Проанализировать ассортимент товаров.

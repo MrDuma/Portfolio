@@ -1,7 +1,7 @@
 # Исследование базы данных сервиса чтения книг по подписке
 
-* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/main/SQL/Exploring%20the%20book%20reading%20service%20database.ipynb)
-* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/main/SQL/Exploring%20the%20book%20reading%20service%20database.html)
+* [Тетрадь в формате ipynb](https://github.com/MrDuma/Portfolio/blob/389eaf234f5d69b3356b6837a270a75dcea80ca3/SQL/Exploring%20the%20book%20reading%20service%20database/Exploring%20the%20book%20reading%20service%20database.ipynb)
+* [Тетрадь в формате html](https://github.com/MrDuma/Portfolio/blob/389eaf234f5d69b3356b6837a270a75dcea80ca3/SQL/Exploring%20the%20book%20reading%20service%20database/Exploring%20the%20book%20reading%20service%20database.html)
 
 ## Задачи проекта:
 Проанализировать базу данных сервиса, это поможет сформулировать ценностное предложение для нового продукта.

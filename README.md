@@ -1,5 +1,5 @@
 # Portfolio
 
-[Проекты с использованием языка программирования Python и библиотеки Pandas](https://github.com/MrDuma/Portfolio/tree/main/Python)
+[Projects using Python programming language and Pandas library](https://github.com/MrDuma/Portfolio/tree/main/Python)
 
-[Проекты выполненые с помощью SQL](https://github.com/MrDuma/Portfolio/tree/main/SQL)
+[Projects executed using SQL](https://github.com/MrDuma/Portfolio/tree/main/SQL)
